@@ -1,7 +1,7 @@
 int val = 0;
-int metal = A5; //input pin dari relay atau sensor
-int metall = 7; //input pin dari relay atau sensor
-int metalll = 8; //input pin dari relay atau sensor
+int metal = A5; //input pin dari relay atau sensor vehicle
+int metall = 7; //input pin dari relay atau sensor vehicle
+int metalll = 8; //input pin dari sensor no-touch
 //#define buzz 4 //buzzer jika detect metal
 //#define Led 2 //buzzer jika detect metal
 //#define Led1 3 //buzzer jika detect metal
